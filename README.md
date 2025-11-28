@@ -1,8 +1,6 @@
-好的，这是一个简单且专业的 `README.md` 模板。它包含了项目介绍、运行指南和效果展示，非常适合作为你的第一个 GitHub 项目门面。
 
-请在你项目的根目录 (即 `mnist_project` 文件夹下) 创建或编辑 `README.md` 文件，将以下内容复制粘贴进去：
 
-````markdown
+
 # 🚀 PyTorch CNN 手写数字识别项目
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) 
@@ -12,7 +10,6 @@
 
 项目目标是实现对经典的 **MNIST 手写数字数据集** (0-9) 的高精度识别，并跑通深度学习项目的完整流程。
 
----
 
 ## ✨ 项目亮点
 
@@ -61,9 +58,3 @@ python src/predict.py
 
 本项目采用 MIT 许可证开源。
 
-```
-
-保存这个文件后，你可以在 GitHub 仓库主页看到一个排版精美的项目介绍。
-
-**恭喜你，你的第一个 PyTorch 项目已正式完成并上线！**
-```
