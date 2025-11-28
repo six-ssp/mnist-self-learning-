@@ -1,0 +1,13 @@
+# 核心依赖 (PyTorch 和 TorchVision 建议根据你的 CUDA 版本，
+# 优先使用官方文档提供的命令安装，但为了记录，仍需列出)
+torch
+torchvision
+
+# 进度条
+tqdm
+
+# 结果可视化
+matplotlib
+
+# 其他辅助工具（如果用到，例如 NumPy 是很多库的隐式依赖）
+numpy
